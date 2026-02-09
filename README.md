@@ -1,7 +1,6 @@
-# 19531-bus-stop-in-melbourne
+**19531-bus-stop-in-melbourne**
 
-
-## What it does & 
+## What it does
 **19531-bus-stop-in-melbourne** is a simple application that directly gets the real-time location information of two buses, 200 and 207, which stops by the bus stop 19531 in Melbourne CBD, from Transport Victoria's OpenData, and returns how many minutes the buses are away from the stop. 
 
 ## Background
